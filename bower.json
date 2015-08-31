@@ -1,0 +1,25 @@
+{
+  "name": "Alara",
+  "version": "2.0.0",
+  "authors": [
+    "Scott Zirkel <scott@thealaragroup.net>",
+    "Christina Donald <christina@thealaragroup.net>"
+  ],
+  "description": "2014 Site",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "http://thealaragroup.net",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.2.0",
+    "breakpoint": "~4.6.4",
+    "jquery-waypoints": "~2.0.5"
+  }
+}

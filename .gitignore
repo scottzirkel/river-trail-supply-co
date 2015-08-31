@@ -1,0 +1,4 @@
+build
+node_modules
+app/_components
+.sass-cache
